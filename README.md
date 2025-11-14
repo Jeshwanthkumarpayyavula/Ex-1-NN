@@ -81,10 +81,13 @@ print("Length of X_train",len(X_train))
 ## OUTPUT:
 ### Describe:
 <img width="1174" height="712" alt="image" src="https://github.com/user-attachments/assets/7d2f9ad7-5ee4-4a86-a4b2-4a921a87fd04" />
+
 ### Missing values:
 <img width="469" height="385" alt="image" src="https://github.com/user-attachments/assets/7686e13d-2e57-41ed-a68f-9cbd11385921" />
+
 ### Normalised dataset:
 <img width="873" height="460" alt="image" src="https://github.com/user-attachments/assets/adc90a3f-1de6-4813-9f9e-08a6a8b04f58" />
+
 ### Train test split:
 <img width="1508" height="222" alt="image" src="https://github.com/user-attachments/assets/da9bd8aa-b7f1-4735-b267-f09a23246c51" />
 
